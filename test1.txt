@@ -1,0 +1,7 @@
+// this is a comment
+public class Hello {
+  public static final void main(String[] args) {
+    //hello world
+    System.out.println("Hello World");
+  }
+} // total 5 lines, right?
